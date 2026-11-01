@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: EUI Totem Timer Style
+## Title-zhCN: EUI 图腾倒计时样式
+## Notes: Gold totem countdown text with a thick black outline and size 14.
+## Notes-zhCN: EUI 图腾倒计时金黄色、黑色粗描边、14号字；保留 EUI 所选字体及计时开关。
+## Author: Ballyh (B站八厉害)
+## Version: 0.1.0
+## X-License: MIT
+## Dependencies: EllesmereUIResourceBars
+
+EUI_TotemTimerStyle.lua

@@ -6,6 +6,7 @@
 ## Author: Ballyh (B站八厉害)
 ## Version: 0.1.0
 ## X-License: MIT
+## X-Wago-ID: RNL4ZXNo
 ## Dependencies: EllesmereUIResourceBars
 
 EUI_TotemTimerStyle.lua
